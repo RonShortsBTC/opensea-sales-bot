@@ -182,5 +182,7 @@ class openseaSalesBot():
 
             time.sleep(30)  # Delay for requesting the opensea api
 
+            # TEST
+
 bot = openseaSalesBot()
 bot.runInstance()
